@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, Verdana, sans-serif;
+  color:rgba(0,0,0,0.00);
+  padding: 10px;
+}
+.page {
+  border: 1px solid red;
+  background-color: #efefef;
+  padding: inherit;
+	/*gkjhkjhk*/
+}
+p{
+	background: DarkCyan;
+}
